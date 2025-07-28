@@ -7,7 +7,7 @@ To integrate Python with Java, one effective method is using **Jython**, **Py4J*
 
 ### Project Overview:
 
-We will build a **Campaign Management Software** where the logic for managing campaigns is written in Java, and the user interface (UI) and other parts of the system (e.g., data processing, analytics) will be written in Python. We will link the Python and Java components using **Py4J**.
+We  build a **Campaign Management Software** where the logic for managing campaigns is written in Java, and the user interface (UI) and other parts of the system (e.g., data processing, analytics) is written in Python. We will link the Python and Java components using **Py4J**.
 
 Here are the steps and files required for the integration:
 
